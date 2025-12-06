@@ -1,0 +1,5 @@
+{
+  "name": "Mevduat ve Faiz Hesaplama Asistanı",
+  "description": "Yatırımlarınızın faiz getirisini hesaplayan, sonuçları veritabanına kaydeden ve Gemini AI ile finansal tavsiyeler sunan akıllı asistan.",
+  "requestFramePermissions": []
+}
